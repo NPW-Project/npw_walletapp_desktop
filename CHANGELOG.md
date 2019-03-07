@@ -2,6 +2,18 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.14] - 2019-03-07
+
+### Added
+
+### Changed
+
+### Removed
+
+### Fixed
+- Program often report wallet corruption after restarts.
+
+
 ## [2.1.13] - 2019-02-02
 
 ### Added
