@@ -2,6 +2,18 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.16] - 2019-04-10
+
+### Added
+
+### Changed
+
+### Removed
+
+### Fixed
+- Fix the problem of sending 20,000 coins to the specified address in the process of creating new master node won't get any response after clicking the "Next step" button.
+
+
 ## [2.1.14] - 2019-03-07
 
 ### Added
