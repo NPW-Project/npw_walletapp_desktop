@@ -2,6 +2,19 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.20] - 2019-08-18
+
+### Added
+
+### Changed
+
+### Removed
+
+### Fixed
+- Fixed the abnormal display issue in MN daily income data;
+- Fixed the problem that the currency price could not be updated correctly.
+
+
 ## [2.1.16] - 2019-04-10
 
 ### Added
